@@ -1,2 +1,2 @@
-# OlaMundo
- Repositorio teste CEV git github
+# Olá Mundo!
+ Repositorio teste do curso de git-github do Curso em Vídeo! 
